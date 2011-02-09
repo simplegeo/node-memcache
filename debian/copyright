@@ -1,0 +1,8 @@
+This package was debianized by Wade Simmons <wade@simplegeo.com>
+
+The upstream repo is:
+    https://github.com/elbart/node-memcache
+
+The Debian packaging is
+    Copyright 2011, SimpleGeo, Inc.
+    MIT license
