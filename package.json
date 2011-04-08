@@ -2,6 +2,6 @@
   "name"          : "memcache",
   "description"   : "memcache client",
   "version"       : "0.1.0",
-  "main"          : "memcache",
+  "main"          : "./lib/memcache",
   "engines"       : { "node": ">=0.1.98" }
 }
